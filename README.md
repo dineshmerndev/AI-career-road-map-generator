@@ -2,7 +2,7 @@
 
 PathForge AI is a full-stack MERN application that generates personalized career roadmaps using AI. It provides users with a structured learning path, including curated YouTube tutorials and documentation links to help them achieve their professional goals.
 
-![Dashboard Preview](./images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 
 ## 🚀 Features
@@ -97,15 +97,15 @@ The application will be available at `http://localhost:5173`.
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](./images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### ✍️ Input Information
-![Input Fields](./images/input%20fields.png)
+![Input Fields](input%20fields.png)
 
 ### 🗺️ Generated Roadmap
-![Roadmap Output 1](./images/Output-1.png)
-![Roadmap Output 2](./images/Output-2.png)
-![Roadmap Output 3](./images/Output-3.png)
+![Roadmap Output 1](Output-1.png)
+![Roadmap Output 2](Output-2.png)
+![Roadmap Output 3](Output-3.png)
 
 
 ---
