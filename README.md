@@ -2,6 +2,9 @@
 
 PathForge AI is a full-stack MERN application that generates personalized career roadmaps using AI. It provides users with a structured learning path, including curated YouTube tutorials and documentation links to help them achieve their professional goals.
 
+![Dashboard Preview](./images/dashboard.png)
+
+
 ## 🚀 Features
 - **AI-Powered Roadmaps**: Personalized learning paths powered by Google Gemini AI.
 - **Resource Integration**: Direct links to YouTube videos and official documentation for every step (MDN, W3Schools, etc.).
@@ -31,8 +34,8 @@ PathForge AI is a full-stack MERN application that generates personalized career
 ### 1. Clone the repository
 ```bash
 # In your terminal
-git clone <your-repo-link>
-cd Chat_bot
+git clone https://github.com/dineshmerndev/AI-career-road-map-generator
+cd Career-AI
 ```
 
 ### 2. Backend Setup
@@ -88,6 +91,22 @@ The application will be available at `http://localhost:5173`.
 - **500 Internal Server Error**: Ensure your MongoDB is running and your `GEMINI_API_KEY` is valid.
 - **Expired Key**: If you see "API key expired", please generate a new one from Google AI Studio.
 - **Registration Error**: If an email is already taken, use the login page or a different email.
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Dashboard
+![Dashboard](./images/dashboard.png)
+
+### ✍️ Input Information
+![Input Fields](./images/input%20fields.png)
+
+### 🗺️ Generated Roadmap
+![Roadmap Output 1](./images/Output-1.png)
+![Roadmap Output 2](./images/Output-2.png)
+![Roadmap Output 3](./images/Output-3.png)
+
 
 ---
 
